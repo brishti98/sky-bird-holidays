@@ -1,0 +1,170 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	background-color: #052D66;
+	width: 100%;
+	height: 22%;
+}
+
+.logo img{
+	width: 15%;
+	height: 100%;
+	float: left;
+}
+
+header h1{
+	padding: 5px;
+	font-family: Times New Roman;
+	font-style: italic;
+	font-size: 68px;
+	color: white;
+	text-align: center;
+}
+
+header h1 p{
+	margin: 0px;
+	padding: 0px;
+	font-family: Times New Roman;
+	font-style: italic;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	letter-spacing: 1px;
+}
+
+.nav{
+	width: 100%;
+	background: #d6d6f5;
+	height: 50px;
+}
+
+ul{
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+	position: absolute;
+	padding: 0px;
+}
+
+ul li{
+	float: left;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	margin-left: 50px;
+	padding: 10px;
+}
+
+ul li a{
+	width: 170px;
+	color: #052D66;
+	text-decoration: none;
+	font-size: 18px;
+	text-align: center;
+	padding: 10px;
+	border-radius: 10px;
+	font-family: Century Gothic;
+	font-weight: bold;
+}
+
+a:hover{
+	background: #669900;
+}
+
+ul li ul{
+	background: #d6d6f5;
+}
+
+ul li ul li{
+	float: none;
+}
+
+ul li ul{
+	display: none;
+}
+
+ul li:hover ul{
+	display: block;
+}
+
+.content{
+	margin: 0px;
+	padding: 0px;
+	background-color: #BED3F2;
+}
+
+.content h3{
+	margin: 0px;
+	padding: 40px;
+	font-family: Times New Roman;
+	font-weight: bolder;
+	font-size: 30px;
+	color: #660920;
+	text-align: left;
+}
+
+.flag img{
+	border: 2px solid black;
+	margin:20px;
+	padding: 5px;
+	width: 300px;
+	height: 200px;
+	top: 500px;
+	right: 100px;
+	float: right;
+}
+
+.visa{
+	margin:0px;
+	padding: 0px;
+	padding-bottom: 0px;
+	width:100%;
+}
+
+p{	
+	margin: 10px;
+	margin-bottom: 0px;
+	padding: 10px;
+	padding-bottom: 0px;
+	font-size: 18px;
+	color: black;
+	font-family: Times New Roman;
+	font-style: solid;
+	text-align: justify;
+}
+
+ol{
+	padding: 0px;
+	margin-left: 70px;
+	position: relative;
+}
+
+ol li{
+	margin: 3px;
+	font-size: 18px;
+}
+
+ol li ol{
+	padding: 0px;
+	position: relative;
+}
+
+ol li ol li{
+	margin: 3px;
+	font-size: 18px;
+}
+
+footer{
+	margin-top: 0px;
+	padding: 0px;
+	width:100%;
+	background-color: #5c5cd6;
+	font-family: Times New Roman;
+	font-style: solid;
+	font-size: 18px;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	text-align: center;
+}
