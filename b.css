@@ -1,0 +1,177 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	margin: 0px;
+	padding: 0px;
+	background-color: #052D66;
+	width: 100%;
+	height: 22%;
+}
+
+.logo img{
+	width: 15%;
+	height: 100%;
+	float: left;
+}
+
+header h1{
+	padding: 5px;
+	font-family: Times New Roman;
+	font-style: italic;
+	font-size: 68px;
+	color: white;
+	text-align: center;
+}
+
+header h1 p{
+	margin: 0px;
+	padding: 0px;
+	font-family: Times New Roman;
+	font-style: italic;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	letter-spacing: 1px;
+}
+
+.nav{
+	width: 100%;
+	background: #d6d6f5;
+	height: 50px;
+}
+
+ul{
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+	position: absolute;
+	padding: 0px;
+}
+
+ul li{
+	float: left;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	margin-left: 50px;
+	padding: 10px;
+}
+
+ul li a{
+	width: 170px;
+	color: #052D66;
+	text-decoration: none;
+	font-size: 18px;
+	text-align: center;
+	padding: 10px;
+	border-radius: 10px;
+	font-family: Century Gothic;
+	font-weight: bold;
+}
+
+a:hover{
+	background: #669900;
+}
+
+ul li ul{
+	background: #d6d6f5;
+}
+
+ul li ul li{
+	float: none;
+}
+
+ul li ul{
+	display: none;
+}
+
+ul li:hover ul{
+	display: block;
+}
+
+.content{
+	background: url(bhutan4.jpg);
+	padding: 20px;
+}
+
+.description {
+	margin: 20px;
+	padding: 0px;
+	background-color: #EEF7FB;
+	border: 1px solid #EEF7FB;
+	opacity: 1.0;
+	filter: alpha(opacity=80); 
+	height: 850px;
+}
+
+.create{
+	position: fixed;
+	right: 55;
+	top: 250;
+}
+
+.create button{
+	font-family: Times New Roman;
+	font-size: 18px;
+}
+
+h2{
+	margin-top: 40px;
+	padding: 0px;
+	font-family: Times New Roman;
+	font-style: strong;
+	text-align: center;
+	color: #A70909;
+	letter-spacing: 1px;
+	font-size: 26px;
+}
+
+video{
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	left: 70px;
+	top: 330px;
+}
+
+.description p {
+	margin: 40px;
+	margin-left: 410px; 
+	font-weight: 1;
+	font-style: solid;
+    color: #000000;
+	word-spacing: 2px;
+	text-align: justify;
+	font-size: 20px;
+}
+
+.fig{
+	margin: 0;
+	padding: 50px;
+	width:500px;
+	height: 500px;
+	font-size: 20px;
+	color: black;
+	opacity: 1.0;
+	filter: alpha(opacity=100);
+}
+
+table tr td{
+	margin: 0px;
+	padding: 50px;
+}
+
+footer{
+	margin-top: 0px;
+	padding: 0px;
+	background-color: #5c5cd6;
+	width: 100%;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: solid;
+	font-size: 18px;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+}

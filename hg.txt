@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Nepal</title>
+	<link rel="stylesheet" type="text/css" href="n3.css"/>
+</head>
+<body>
+<header>
+<div class="logo">
+<img src="sky.jpg" alt="logo"/>
+</div>
+<h1>Sky Bird Holidays<br/><p>Enjoy the holidays with us</b></p></h1> 
+</header>
+<div class="nav">
+<ul>
+	<li><a href="home.html">HOME</a></li>
+	<li><a href="about.html">ABOUT US</a></li>
+	<li><a href="Bhutan.html">BHUTAN</a>
+		<ul>
+		<li><a href="b1.html">CULTURAL & HISTORICAL TOURS</a></li>
+		<li><a href="b2.html">TREKKING & HIKING</a></li>
+		<li><a href="b3.html">BHUTAN FESTIVAL 2018</a></li>
+		</ul>
+	</li>
+	<li><a href="India.html">INDIA</a>
+		<ul>
+		<li><a href="i1.html">CULTURAL & HISTORICAL TOURS</a></li>
+		<li><a href="i2.html">TREKKING & HIKING</a></li>
+		<li><a href="i3.html">MULTIPLE ACTIVITES</a></li>
+		</ul>		
+	</li>
+	<li><a href="Nepal.html">NEPAL</a>
+		<ul>
+		<li><a href="n1.html">CULTURAL & HISTORICAL TOURS</a></li>
+		<li><a href="n2.html">TREKKING & HIKING</a></li>
+		<li><a href="n3.html">MULTIPLE ACTIVITES</a></li>
+		</ul>
+	</li>
+	<li><a href="visa.html">VISA</a>
+		<ul>
+		<li><a href="visab.html">BHUTAN</a></li>
+		<li><a href="visai.html">INDIA</a></li>
+		<li><a href="visan.html">NEPAL</a></li>
+		</ul>	
+	</li>
+	<li><a href="contact.html">CONTACT US</a></li>
+</ul>	
+</div>
+<div class="content">
+<div class="description">
+<h2>CULTURAL & HISTORICAL TOURS</h2>
+<p>Each part of Nepal, from East to West, or North to South, has its own cultural setting. Tradition, religion, belief, language, social organization and people are the important aspects of culture in Nepal. Sacred pilgrimage sites, historical monuments and memorials reflect richness of Nepalese culture. As our professional multilingual guides take you on cultural tours in Nepal, you will gain invaluable insight into Nepali lifestyles. Interacting directly with ethnic communities will add excitement to your holiday and rejuvenate you spiritually. Experience the cultural delights of Nepal with us depending on your time availability - within a day to over a week. We also organize photography tours and helicopter tours as new alternate ways to explore Nepal.</p>
+<table>
+<tr>
+<td><img src="Basantapur.jpg" alt="Sightseeing" title="Basantapur Durbar Square"/></td>
+<td><h3>Kathmandu - 1 day</h3>Our One-day cultural tour in Kathmandu provides a close glimpse of Nepal. It not only showcases the rich culture of the Nepalese people but also takes you back in time through its architectural marvels. The tour takes you to four places: Kathmandu Durbar Square, Pashupatinath, Bauddhanath and Swayambhunath temples that hold both religious and cultural importance to the Nepalese people.<br><br>$40 per person including the transportation<br><br><input type="button" value="BOOK"/></td>
+</tr>
+</table> 
+<table>
+<tr>
+<td><img src="patan.jpg" alt="Sightseeing" title="Patan Durbar Square"/></td>
+<td><h3>Patan & Bhaktapur - 2 day</h3>Patan Durbar Square; located on a lovely little plateau across the Bagmati river is 7 KM southeast of Kathmandu. Patan city was founded in 3rd century AD, by King Veera Dev has a finest Newar craft since time immemorial. Meaning the city of fine arts has hundreds of fascinating Hindu and Buddhist monuments scattered in and around. The important monument area of courses is Patan Durbar Square. It is recognized by UNESCO as a world heritage site 1976. The Patan Durbar Square has been described as a picturesque collection of buildings that have been set up small a place by the piety of an oriental man.The important things to be seen in this area include the Golden Gate and the Golden Window of the old Palace, the beautiful piece of traditional metal crafts, the famed Krishna temple with 21 golden pinnacles, the Royal bath of Sundari Chowk, a perfect piece of the classic work in stone, Royal Taleju temple, Viswa Nath Temple and Char Narayan temple are the finest examples of the unique craftsmanship in wood; the temple of Bhimsen with the magnificent golden balcony overlooking the square outside plus many other shrines and sculptures scattered in and around the square.</td>
+</tr>
+<tr>
+<td><img src="bhaktapur.jpg" alt="Sightseeing" title="Bhaktapur Durbar Square"/></td>
+<td>Bhaktapur Durbar Square; situated at an altitude of 1401 meters above sea level Bhaktapur is a unique old town. Bhaktapur city divided into 24 traditional localities covers an area of 5 square kilometers. It was founded by King Anand Dev in 889 AD. Bhakatapur is said to have been built in the shape of conch shell a sacred symbol of Lord Vishnu. The word Bhaktapur means the city of devotees. Before the unification of Nepal, Bhaktapur was an independent principality ruled by the Malla Kings, who were devoted to religion, culture and art. During the period many magnificent temples and mansions were built. That period is remembered as the golden period in the Nepalese art and remains a unique example.<br><br>$54 per person including the transportation<br><br><input type="button" value="BOOK"/></td>
+</tr>
+</table> 
+<table>
+<tr>
+<td><img src="gorkha.jpg" alt="Sightseeing" title="Gorkha Durbar"/></td>
+<td><h3>Gorkha Durbar & Manakamana Temple - 2 day</h3>Gorkha is 141km west from Kathmandu, birthplace of King Prithvinarayan Shah who found Nepal. Gorkha palace & Kalika temple is situated on a hill overlooking the snowy peaks of the Himalayan beautiful. The Gorkha palace was established in the year 1560, by the legendary King Drabya Shah. From the year 1604 to 1641, the Shah dynasty.<br><br>The holy temple of goddess Manakamana lies on a beautiful ridge west of Kathmandu valley. On the way to Gorkha Bazaar visit Manakamana temple where is available cabal is very enjoyable and interesting to join the worship of Manakamana Goddess. Goddess of Manakamana is highly noted as a wishful filling goddess throughout the country. It is said that she is the younger sister of goddess Kali. She is regarded to be a very sacred goddess.<br><br>$130 per person including the transportation<br><br><input type="button" value="BOOK"/></td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="lumbini.jpg" alt="Sightseeing" title="Basantapur Durbar Square"/></td>
+<td><h3>Lumbini - 3 day</h3>Lumbini is the birth place of Lord Buddha, the follower of peace and compassion. Lumbini is 21 km west of Bhairahawa and 282 km south-west of Kathmandu. Lumbini is a place of pilgrimage for Buddhist as well as a place of reverence for peace lovers of any religious faith throughout the world. In Lumbini the central attraction is the sacred garden with Maya Devi temple depicting the birth of Lord Buddha, Ashoka Pillar pinpoints the birth place of Buddha and Shakya Tank where Maya Devi, the mother of Lord Buddha, is supposed to have taken a dip before bringing forth the baby - Lord Buddha. Around this holy site, there were remnants of Monasteries and Chaityas built over the centuries following Buddha's birth in 632 BC.<br><br>$100 per person including the transportation<br><br><input type="button" value="BOOK"/></td>
+</tr>
+</table>  
+<table>
+<tr>
+<td><img src="pokhara.jpg" alt="Sightseeing" title="Pokhara"/></td>
+<td><h3>Pokhara - 4 day</h3>Pokhara is situated at an altitude of 827 meters above the sea level and is 200 kilometers west of Kathmandu. Prithivi Raj Marga is the highway linked with by Bhairahawa by Siddhartha Raj Marga (Sunauli border), it’s a combination of the long arrays of world famous snow clad peaks, emerald lakes, turbulent rivers with deep Georges and picturesque villages inhabited by major, Gurungs and Thakalis. Pokhara offers the magnificent views of Dhaulagiri, Manaslu, Machhapuchhare, five peaks of Annapurna Himalayas and others. Pokhara numerous lakes known as "Tal" in Nepal offer fishing, boating and swimming, that assures the famous Phewa, Begnas and Rupa lakes. Pokhara sightseeing is also referred as the center of adventure. It is the starting point for almost of the popular trekking & rafting destination. The serenity of Phewa Lake and the magnificence of Machhapuchhare [6,977m] rising behind it, creates an ambiance of peace and magic.<br><br>$199 per person including the transportation<br><br><input type="button" value="BOOK"/></td>
+</tr>
+</table>  
+</div>
+</div>
+<footer>
+&copy; 2018 Sky Bird Holidays
+</footer>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Nepal</title>
+	<link rel="stylesheet" type="text/css" href="n3.css"/>
+</head>
+<body>
+<header>
+<div class="logo">
+<img src="sky.jpg" alt="logo"/>
+</div>
+<h1>Sky Bird Holidays<br/><p>Enjoy the holidays with us</b></p></h1> 
+</header>
+<div class="nav">
+<ul>
+	<li><a href="home.html">HOME</a></li>
+	<li><a href="about.html">ABOUT US</a></li>
+	<li><a href="Bhutan.html">BHUTAN</a>
+		<ul>
+		<li><a href="b1.html">CULTURAL & HISTORICAL TOURS</a></li>
+		<li><a href="b2.html">TREKKING & HIKING</a></li>
+		<li><a href="b3.html">BHUTAN FESTIVAL 2018</a></li>
+		</ul>
+	</li>
+	<li><a href="India.html">INDIA</a>
+		<ul>
+		<li><a href="i1.html">CULTURAL & HISTORICAL TOURS</a></li>
+		<li><a href="i2.html">TREKKING & HIKING</a></li>
+		<li><a href="i3.html">MULTIPLE ACTIVITES</a></li>
+		</ul>		
+	</li>
+	<li><a href="Nepal.html">NEPAL</a>
+		<ul>
+		<li><a href="n1.html">CULTURAL & HISTORICAL TOURS</a></li>
+		<li><a href="n2.html">TREKKING & HIKING</a></li>
+		<li><a href="n3.html">MULTIPLE ACTIVITES</a></li>
+		</ul>
+	</li>
+	<li><a href="visa.html">VISA</a>
+		<ul>
+		<li><a href="visab.html">BHUTAN</a></li>
+		<li><a href="visai.html">INDIA</a></li>
+		<li><a href="visan.html">NEPAL</a></li>
+		</ul>	
+	</li>
+	<li><a href="contact.html">CONTACT US</a></li>
+</ul>	
+</div>
+<div class="content">
+<div class="description">
+<h2>MULTIPLE ACTIVITIES</h2>
+<p>Nepal is one of the most popular outdoor destinations on earth. Along with mountain expeditions and Himalayan treks, Nepal is also famous for a myriad of other things. Go through the list below to learn about how you can spend your next holiday in Nepal.</p>
+<center>
+<table>
+<tr>
+<td><img src="bungee.jpg" alt="adventure" title="Bungee"/></td>
+<td><h3>Bungy Jump - 1 day</h3>Bungy Jump is one of the equally becoming adventure attractions in Nepal. Bungy Jumpers jump high from 160 meters high bridge above the raging of Bhote Koshi River and can take a lot of enjoyable by hanging. First Bungy jumping in Nepal lies in 160m over.<br><br>"Jump & set your soul free; feel eternity within seconds till you set back feet on earth."<br><br>$500 per person<br><br><input type="button" value="BOOK"/></td>
+</tr>
+</table> 
+<table>
+<tr>
+<td><img src="Mountainflight.jpg" alt="flight" title="Mountain Flight"/></td>
+<td><h3>Mountain Flight - 1 day</h3>Everest Experience is a close-encounter mountain flight-seeing tour with Buddha Air.  Indulge in the panorama and maybe, just maybe, you might realize what you have been missing, or find what you have been looking for, all this while.<br><br>After all a trip to Nepal would be incomplete without truly understanding what really makes it beautiful.<br><br>Nothing compares to the sheer beauty or awe, the Himalayas has to offer.  Take the mother of all mountain flights, the Everest Experience where we put you, one on one with Mt. Everest, so close that you can almost touch it.<br><br>$190 per person including the trasport<br><br><input type="button" value="BOOK"/></td>
+</tr>
+</table> 
+<table>
+<tr>
+<td><img src="Paragliding.jpg" alt="adventure" title="Paragliding"/></td>
+<td><h3>Paragliding - 1 day</h3>Take to the sky on thermals over the snow capped mountains and pristine lakes like nowhere else in the world. With experienced pilots, choose from tandem flights to fully certified paragliding courses, solo flights or even go paragliding with hawks!<br><br>Standard short flight cost is RS 9500 ($95) for 30 minutes, cross country long flight cost is Rs 13000 ($130) for 40-60 minutes flight<br><br><input type="button" value="BOOK"/></td>
+</tr>
+</table> 
+<table>
+<tr>
+<td><img src="rafting.jpg" alt="adventure" title="Rafting"/></td>
+<td><h3>Rafting - 1 - 10 days</h3>Rafting in Nepal is one of the most popular adventure and it is consider as paradise land for river runners. There are various grade of whitewater rafting trips possibly vary with interest and choice. Those who are looking for long days expedition type run may join for Sun Koshi and Karnali rafting trip together combining with wildlife safari tour in nearer National parks.  For short rafting and family run may go to raft on Trishuli and Seti for smooth class of run and experience.<br><br>"Endless white rivers that descend from the highest mountains, offer countless options."<br><br>Cost:<br>Trisuli River: Per day per person USD 30 (Minimum 4 person or more)<br>Marshyangdi River trip: 4 days (Minimum 4 person) per person for trip USD 180 <br>
+Karnali River: 12 days (Minimum 6 person) per person USD 500<br>Sun koshi River: 8 days (Minimum 5 person) Per person per trip USD 400<br>Tama koshi River: 10 days (Minimum 5 person) Per person USD 400<br>Bhote Khoshi : 2 days, (Minimum 4 person) Per person per trip USD 100 Kail Gandaki River: 5 days (Minimum 4 person) per person USD 250<br><br><input type="button" value="BOOK"/></td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="canyoning.jpg" alt="adventure" title="Canyoning"/></td>
+<td><h3>Canyoning - 1 - 5days</h3>Canyoning is an amazing full body and mind experience that enables you to explore some of the last forbidden places in the Himalayas.<br><br>Explore hidden canyons in the Himalayas for the ultimate wet & wild canyoning experience!<br><br>$99- $200<br><br><input type="button" value="BOOK"/></td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="chitwan.jpg" alt="Jungle" title="Jungle Safari"/></td>
+<td><h3>Chitwan National Park 2 - 5 day</h3>The Chitwan consists of tropical and subtropical forests. Sal forests cover 70 percent of the park. Sal leaves are used locally for making plates for festivals and religious offerings. Grasslands cover 20 percent of the park. There are more than 50 different types of grasses, including the elephant grass (Saccharum spp), renowned for its immense height. It can grow up to 8m in height. Chitwan park is home to more than 50 mammal species, over 525 birds, and 55 amphibians and reptiles. The endangered fauna found in the park are: One-horned rhinoceros, gaur. Royal Bengal tiger, wild elephant, four-horned antelope, and pangolin among the mammals; golden monitor lizard, crocodiles, and python among the amphibians; and Bengal florican. lesser florican, giant hornbill, black stork, white stork among the birds.<br><br>
+Elephant safari provides opportunity to get a closer view of the endangered one-horned rhinoceros. One may also get a glimpse of the elusive Bengal tiger. The Elephant Breeding Center at Khorsor, Sauraha gives you information on captive elephant and the calves born there.<br><br>$99 per person<br><br><input type="button" value="BOOK"/></td>
+</tr>
+</table> 
+<table>
+<tr>
+<td><img src="bardia.jpg" alt="Jungle" title="Jungle Safari"/></td>
+<td><h3>Bardia National Park 2 - 5 day</h3>Bardiya National park (968 sq. km); is the largest and most undisturbed wilderness area in the Terai. Thickly covered with sal trees and carpeted with class and savannah, the park has the second largest tiger population after Chitwan National park. Other wild animals that roam here are the one-horned rhino, wild elephant, swamp deer, black buck, antelope, Goral crocodile, and genetic dolphin. Endangered bird that make their home here, include the Bengal Florida and sarus crane. The Park headquarters is about a four hour drive from the town of Nepalgunj which is linked to the Kathmandu by road (531km) and by air 75 Minutes.<br><br>$120 per person<br><br><input type="button" value="BOOK"/></td>
+</tr>
+</table> 
+</center>
+</div>
+</div>
+
+<footer>
+&copy; 2018 Sky Bird Holidays
+</footer>
+</body>
+</html>
+
+
+

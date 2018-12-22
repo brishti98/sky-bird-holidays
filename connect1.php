@@ -1,0 +1,75 @@
+<?php
+$con=mysqli_connect("localhost","root","","travel");
+if(isset($_POST['login'])){
+    $fname=$_POST['fname'];
+    $mname=$_POST['mname'];
+    $lname=$_POST['lname'];
+    $email=$_POST['email'];
+    $contact=$_POST['contact'];
+    $nation=$_POST['nation'];
+    $travellers=$_POST['travellers'];
+    $travellers1=$_POST['travellers1'];
+    $bc1=$_POST['bc1'];
+    $bc2=$_POST['bc2'];
+    $bc3=$_POST['bc3'];
+    $bc4=$_POST['bc4'];
+    $bc5=$_POST['bc5'];
+    $bt1=$_POST['bt1'];
+    $bt2=$_POST['bt2'];
+    $bt3=$_POST['bt3'];
+    $ic1=$_POST['ic1'];
+    $ic2=$_POST['ic2'];
+    $ic3=$_POST['ic3'];
+    $ic4=$_POST['ic4'];
+    $ic5=$_POST['ic5'];
+    $ic6=$_POST['ic6'];
+    $ic7=$_POST['ic7'];
+    $ic8=$_POST['ic8'];
+    $it1=$_POST['it1'];
+    $it2=$_POST['it2'];
+    $it3=$_POST['it3'];
+    $it4=$_POST['it4'];
+    $it5=$_POST['it5'];
+    $it6=$_POST['it6'];
+    $it7=$_POST['it7'];
+    $im1=$_POST['im1'];
+    $im2=$_POST['im2'];
+    $im3=$_POST['im3'];
+    $nc1=$_POST['nc1'];
+    $nc2=$_POST['nc2'];
+    $nc3=$_POST['nc3'];
+    $nc4=$_POST['nc4'];
+    $nc5=$_POST['nc5'];
+    $nc6=$_POST['nc6'];
+    $nc7=$_POST['nc7'];
+    $nt1=$_POST['nt1'];
+    $nt2=$_POST['nt2'];
+    $nt3=$_POST['nt3'];
+    $nt4=$_POST['nt4'];
+    $nt5=$_POST['nt5'];
+    $nt6=$_POST['nt6'];
+    $nt7=$_POST['nt7'];
+    $nm1=$_POST['nm1'];
+    $nm2=$_POST['nm2'];
+    $nm3=$_POST['nm3'];
+    $nm4=$_POST['nm4'];
+    $nm5=$_POST['nm5'];
+    $nm6=$_POST['nm6'];
+    $today=$_POST['today'];
+    $lday=$_POST['lday'];
+    $ar=$_POST['$ar'];
+    $ta=$_POST['$ta'];
+    $msg=$_POST['msg'];
+             $query="insert into booking(fname,mname,lname,email,contact,nation,travellers,travellers1,bc1,bc2,bc3,bc4,bc5,bt1,bt2,bt3,ic1,ic2,ic3,ic4,ic5,ic6,ic7,ic8,it1,it2,it3,it4,it5,it6,it7,im1,im2,im3,nc1,nc2,nc3,nc4,nc5,nc6,nc7,nt1,nt2,nt3,nt4,nt5,nt6,nt7,nm1,nm2,nm3,nm4,nm5,nm6,today,lday,msg)values('$fname','$mname','$lname','$email','$contact','$nation','$travellers','$travellers1','$bc1','$bc2','$bc3','$bc4','$bc5','$bt1','$bt2','$bt3','$ic1','$ic2','$ic3','$ic4','$ic5','$ic6','$ic7','$ic8','$it1','$it2','$it3','$it4','$it5','$it6','$it7','$im1','$im2','$im3','$nc1','$nc2','$nc3','$nc4','$nc5','$nc6','$nc7','$nt1','$nt2','$nt3','$nt4','$nt5','$nt6','$nt7','$nm1','$nm2','$nm3','$nm4','$nm5','$nm6','$today','$lday','$msg')";
+    $result=mysqli_query($con,$query);
+    if($result)
+    {
+        echo "<script>alert('YOUR BOOKING IS DONE')</script>";
+        echo "<script>window.open('home.php','_self')</script>";
+    }
+    else{
+        echo "<script>alert('form not submitted')</script>";
+        echo "<script>window.open('booking.php','_self')</script>";
+	}
+}
+?>

@@ -1,0 +1,165 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	background-color: #052D66;
+	width: 100%;
+	height: 22%;
+}
+
+.logo img{
+	width: 15%;
+	height: 100%;
+	float: left;
+}
+
+header h1{
+	padding: 5px;
+	font-family: Times New Roman;
+	font-style: italic;
+	font-size: 68px;
+	color: white;
+	text-align: center;
+}
+
+header h1 p{
+	margin: 0px;
+	padding: 0px;
+	font-family: Times New Roman;
+	font-style: italic;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	letter-spacing: 1px;
+}
+
+.nav{
+	width: 100%;
+	background: #d6d6f5;
+	height: 50px;
+}
+
+ul{
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+	position: absolute;
+	padding: 0px;
+}
+
+ul li{
+	float: left;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	margin-left: 50px;
+	padding: 10px;
+}
+
+ul li a{
+	width: 170px;
+	color: #052D66;
+	text-decoration: none;
+	font-size: 18px;
+	text-align: center;
+	padding: 10px;
+	border-radius: 10px;
+	font-family: Century Gothic;
+	font-weight: bold;
+}
+
+a:hover{
+	background: #669900;
+}
+
+ul li ul{
+	background: #d6d6f5;
+}
+
+ul li ul li{
+	float: none;
+}
+
+ul li ul{
+	display: none;
+}
+
+ul li:hover ul{
+	display: block;
+}
+
+.content{
+	background: url(india.jpg);
+	padding: 20px;
+}
+
+.description {
+	margin: 20px;
+	padding: 0px;
+	background-color: #BED3F2;
+	border: 1px solid #BED3F2;
+	opacity: 1.0;
+	filter: alpha(opacity=80); 
+}
+
+.create{
+	position: fixed;
+	right: 55;
+	top: 250;
+}
+
+.create button{
+	font-family: Times New Roman;
+	font-size: 18px;
+}
+
+h2{
+	margin-top: 70px;
+	padding: 0px;
+	font-family: Times New Roman;
+	font-style: solid;
+	text-align: center;
+	color: #6F0A1B;
+	letter-spacing: 1px;
+	font-size: 26px;
+}
+
+.description p {
+	margin: 5%;
+	font-weight: bold;
+	font-style: solid;
+    	color: #000000;
+	word-spacing: 2px;
+	text-align: justify;
+	font-size: 20px;
+}
+
+table{
+	border: 1pt solid #FFFFFF;
+	margin:70px;
+	padding: 15px;
+	background-color: #FFFFFF;
+}
+
+table td{
+	padding: 15px;
+	font-family: Times New Roman;
+	font-style: strong;
+	font-size: 18px;
+	text-align: justify;
+}
+
+footer{
+	margin: 0px;
+	padding: 0px;
+	background-color: #5c5cd6;
+	width: 100%;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: solid;
+	font-size: 18px;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+}
+
